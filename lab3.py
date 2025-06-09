@@ -2,7 +2,7 @@
 # Author: Muhammad Nazmul Hossain
 # Student Number:105085229
 #
-# Place the code for your lab 3 here.  Read the specs carefully.  
+# 
 #
 # To test, run the following command :
 #     python test_lab3.py
